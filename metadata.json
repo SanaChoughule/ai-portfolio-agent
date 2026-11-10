@@ -1,0 +1,6 @@
+{
+  "name": "PortfolioPilot - AI Portfolio CMS for Creators",
+  "description": "AI-powered portfolio CMS for photographers and videographers with automated ingestion, visual analysis, curatorial metadata, and live public website engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
